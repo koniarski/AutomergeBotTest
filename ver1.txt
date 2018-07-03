@@ -7,3 +7,4 @@ test4 fix - 15:59
  //used to distinguish commits made by humans from created by us
  //  eg. ["R75->R75.1", "R75.1->R75.2"]
  //eg.  ["githubUserName"] or leave it empty
+test5 fix - 16:39
