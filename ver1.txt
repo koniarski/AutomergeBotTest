@@ -28,3 +28,4 @@ developer13 fix - 11:21
 developer14 fix - 11:46
 developer15 fix - 11:49
 developer16 fix - 12:07
+developer17 fix - 12:41
