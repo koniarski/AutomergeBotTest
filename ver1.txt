@@ -8,3 +8,5 @@ test4 fix - 15:59
  //  eg. ["R75->R75.1", "R75.1->R75.2"]
  //eg.  ["githubUserName"] or leave it empty
 test5 fix - 16:39
+test6 fix - 9:07
+test7 fix - 9:10
