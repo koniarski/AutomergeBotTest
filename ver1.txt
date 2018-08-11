@@ -91,3 +91,4 @@ slack5_2 - 14:06
 slack6 - 14:37
 
 bugfix1_2 - 8:06
+bugfix2 - 8:10
