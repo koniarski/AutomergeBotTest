@@ -98,3 +98,4 @@ bugfix5 - 8:24
 bugfix6 - 8:30
 bugfix7 - 8:37
 bugfix8 - 8:41
+bugfix9 - 8:57
