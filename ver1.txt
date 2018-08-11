@@ -89,7 +89,13 @@ R76 change23 - 9:41
 feature2 change - 9:45
 R76 change24 - 9:59
 R76.1 change5 - 14:11
-change1 - 9:15
+R76 change25 - 14:12
 
+change1 - 9:15
 slack1 - 10:45
+slack3 - 10:56
 slack4_5 - 12:26
+slack5_2 - 14:06
+slack6 - 14:37
+
+bugfix1_2 - 8:06
